@@ -2,16 +2,24 @@
 Функціонал:
 -додати замовлення
 -додати касира
-![image](https://user-images.githubusercontent.com/74319792/168821175-e73c8d39-434e-43e6-965c-fd5c59ce9871.png)
+ 
+ ![image](https://user-images.githubusercontent.com/74319792/168821359-3a47441e-5d0c-4888-bbfa-9a92f9d4a557.png)
+
 
 -подивитися всі замовлення 
 -подивитися всіх касирів
-![image](https://user-images.githubusercontent.com/74319792/168821206-cd4e5f43-2a43-4c90-89d5-22e62897d17f.png)
+
+![image](https://user-images.githubusercontent.com/74319792/168821441-e304c414-f769-41b6-9517-1390bc9867ad.png)
 
 
 -вибраний касир починає виконувати замовлення в черзі
 -вибраний касир закінчує виконувати замволення в черзі
 -подивитися замовлення яке виконує касир
 -подивитися замовлення за статусом
-![image](https://user-images.githubusercontent.com/74319792/168821245-7c459cc5-f40f-4d7c-8203-07cbcea22012.png)
+
+![image](https://user-images.githubusercontent.com/74319792/168821516-f91b848d-c4bd-43a7-afc8-9a801760486c.png)
+
+
+
+
 
